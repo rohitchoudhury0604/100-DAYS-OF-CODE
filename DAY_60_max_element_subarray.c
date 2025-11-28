@@ -32,4 +32,5 @@ int main() {
     findMaxInSlidingWindow(arr2, n2, k2);
 
     return 0;
+
 }
